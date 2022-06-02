@@ -85,7 +85,7 @@ You can also download a remote file from a browser with a GET request :
 
 When your webshell is active, you can now use the interactive [console.py](console.py) to execute commands and download remote files.
 
-
+https://user-images.githubusercontent.com/79218792/171576334-8666a624-4611-4a21-a99e-691819a64329.mp4
 
 ## References
  - https://www.sweetrice.xyz/
