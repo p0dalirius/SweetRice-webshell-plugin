@@ -38,7 +38,7 @@ readline.set_completer_delims('\n')
 
 
 def parseArgs():
-    print("SweetRice interactive console for webshell - by @podalirius_\n")
+    print("SweetRice interactive console for webshell - by Remi GASCOU (Podalirius)\n")
 
     parser = argparse.ArgumentParser(description="Interactive console for SweetRice webshell plugin")
     parser.add_argument("-t", "--target", default=None, required=True, help='SweetRice target instance')
